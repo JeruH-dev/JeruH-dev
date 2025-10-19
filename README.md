@@ -12,6 +12,7 @@
 🎓 **Background:** Forestry & Wildlife Graduate → Tech Creator  
 💼 **Current Role:** Intern @ Hex Softwares (Web Development) 
                       Intern @ Paritie Innovation Hub
+                      
 🔍 **Focus Areas:** Frontend, Next.js, Teaching Digital Skills  
 🧑🏾‍🏫 I also teach **digital skills** and basic computer literacy  
 🎮 Hobbies: Gaming, Music, Blogging, and Exploring Cybersecurity  
@@ -47,11 +48,19 @@
 
 ## 🎧 Now Playing on Spotify
 
+
 <p align="center">
   <a href="https://open.spotify.com/user/31j7nonn7uddxvfapgtnftlqysyq" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31j7nonn7uddxvfapgtnftlqysyq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify Logo" width="90" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31j7nonn7uddxvfapgtnftlqysyq" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?  uid=31j7nonn7uddxvfapgtnftlqysyq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="Now Playing on Spotify" />
+  </a>
+</p>
+
 
 ---
 
