@@ -8,11 +8,9 @@
 ## 🧭 About Me
 
 👨🏾‍💻 **Name:** Gideon Efiakedoho  
-🌍 **Location:** Akwa Ibom State, Nigeria 🇳🇬  
+🌍 **Location:** Niger State, Nigeria 🇳🇬  
 🎓 **Background:** Forestry & Wildlife Graduate → Tech Creator  
-💼 **Current Role:** Intern @ Hex Softwares (Web Development) 
-                      Intern @ Paritie Innovation Hub
-                      
+💼 **Current Role:** Intern @ Hex Softwares (Web Development) / Intern @ Paritie Innovation Hub          
 🔍 **Focus Areas:** Frontend, Next.js, Teaching Digital Skills  
 🧑🏾‍🏫 I also teach **digital skills** and basic computer literacy  
 🎮 Hobbies: Gaming, Music, Blogging, and Exploring Cybersecurity  
@@ -38,7 +36,7 @@
 
 | Project | What It Does | Live / Demo | Repo |
 |--------|----------------|-------------|------|
-| 📚 **Book Library App** | Digital library to manage, browse, and search books | [Demo](#) | [Repo](https://github.com/JeruH-dev/Hex_Softwares-Book-Library) |
+| 📚 **Book Library App** | Digital library to manage, browse, and search books | [Demo](https://hex-softwares-book-library.vercel.app/) | [Repo](https://github.com/JeruH-dev/Hex_Softwares-Book-Library) |
 | 💪 **Gym Website** | Responsive landing page for a fitness brand | [Demo](#) | [Repo](#) |
 | ✅ **To-Do List** | Simple task manager with smooth UI & local storage | [Demo](#) | [Repo](#) |
 
