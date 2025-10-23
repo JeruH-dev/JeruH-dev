@@ -13,7 +13,7 @@
 💼 **Current Role:** Intern @ Hex Softwares (Web Development) / Intern @ Paritie Innovation Hub          
 🔍 **Focus Areas:** Frontend, Next.js, Teaching Digital Skills  
 🧑🏾‍🏫 I also teach **digital skills** and basic computer literacy  
-🎮 Hobbies: Gaming, Music, Blogging, and Exploring Cybersecurity  
+🎮 Hobbies: Gaming, Music, Driving, and Exploring Cybersecurity  
 💻 Learning **Next.js**, **TypeScript**, and **API integration**  
 🗣 Motto: *“Wake up! Pray! Hustle!”* 
 
