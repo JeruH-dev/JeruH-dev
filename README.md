@@ -37,6 +37,7 @@
 | Project | What It Does | Live / Demo | Repo |
 |--------|----------------|-------------|------|
 | 📚 **Book Library App** | Digital library to manage, browse, and search books | [Demo](https://hex-softwares-book-library.vercel.app/) | [Repo](https://github.com/JeruH-dev/Hex_Softwares-Book-Library) |
+| 👰‍♀️ **Wedding Website** | Digital, fully responsive website for wedding invitation, RSVP, Virtual ICs and Gift Registry with live Google map direction | [Demo](https://idyanie-wedding-bells.vercel.app/)] | [Repo](#) | 
 | 💪 **Gym Website** | Responsive landing page for a fitness brand | [Demo](#) | [Repo](#) |
 | ✅ **To-Do List** | Simple task manager with smooth UI & local storage | [Demo](#) | [Repo](#) |
 
