@@ -10,7 +10,7 @@
 👨🏾‍💻 **Name:** Gideon Efiakedoho  
 🌍 **Location:** Niger State, Nigeria 🇳🇬  
 🎓 **Background:** Forestry & Wildlife Graduate → Tech Creator  
-💼 **Current Role:** Web Developer/Programme Support @ MRL®️ Public Sector Consultant         
+💼 **Current Role:** Web Developer/Programme Support @ MRL®️ Public Sector Consultant <br>        
 🔍 **Focus Areas:** Frontend, Next.js, React.js, TypeScriptt... 
 🧑🏾‍🏫 I also teach **digital skills** and basic frontend development   
 🎮 Hobbies: Gaming, Music, Driving, and Exploring Cybersecurity  
